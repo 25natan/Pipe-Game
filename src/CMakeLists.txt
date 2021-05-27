@@ -1,0 +1,10 @@
+﻿target_sources (oop2_ex04 PRIVATE "Main.cpp"
+ "ClicksCounter.cpp"
+ "Controller.cpp"
+ "OpeningScreen.cpp"
+ "Direction.cpp"
+ "GameClock.cpp"
+ "RotatableTile.cpp"
+ "Stage.cpp"
+ "StagesMenu.cpp"
+ "Tile.cpp")
