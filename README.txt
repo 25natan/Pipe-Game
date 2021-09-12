@@ -25,7 +25,7 @@ and RotatableTile which is another abstract base class
 that has the method rotate() From this class inherit Sink and Pipe which are concrete classes.
 
 The main game managing class is Stage class.
-Stage class has builds current stage and do initializes
+Stage class builds the current stage and initializes
 all the start data (like the neighbors of every tile).
 Stage class also has he main method of the game conectStream()
 which goes over the graph in Depth First Search and conect stream
